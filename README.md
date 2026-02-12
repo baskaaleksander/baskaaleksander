@@ -8,25 +8,16 @@ If a system looks complex, asynchronous, or hard to scale - chances are I want t
 
 ---
 
-### What I do
-
-- Backend-oriented engineer with a strong focus on **Java and Spring Boot**
-- Design and implementation of **microservices and event-driven systems**
-- End-to-end ownership: architecture, backend, messaging, storage, observability, deployment
-- Currently building a **multi-tenant AI knowledge platform** using Kafka, vector search, and knowledge graphs
-
----
-
 ### Technical focus
 
-- **Languages:** Java (primary), Python, TypeScript  
-- **Backend:** Spring Boot, Spring Security, JPA/Hibernate, REST APIs  
+- **Languages:** Java, Python, TypeScript, C#  
+- **Backend:** Spring Boot, Spring Security, JPA/Hibernate, NestJS, Express.js, EF Core REST APIs  
 - **Architecture:** Microservices, Event-Driven Architecture, Clean Architecture, DDD  
 - **Messaging:** Kafka, RabbitMQ  
 - **Databases:** PostgreSQL, Redis, MongoDB, Qdrant, Neo4j  
 - **DevOps:** Docker, Docker Compose, GitHub Actions, Linux, Nginx  
 - **Observability:** Prometheus, OpenTelemetry, structured logging  
-- **Testing:** JUnit, Testcontainers, Mockito  
+- **Testing:** JUnit, Testcontainers, Mockito, Jest  
 
 ---
 
