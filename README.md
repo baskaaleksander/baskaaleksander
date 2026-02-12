@@ -1,6 +1,6 @@
 ### Hey there!
 
-I’m **Aleksander Baska**, a Java backend engineer focused on building scalable, production-grade systems.
+I’m **Aleksander Baska**, a backend engineer focused on building scalable, production-grade systems.
 
 I enjoy designing and implementing distributed architectures, event-driven pipelines, and AI-powered platforms treated as backend workloads rather than experiments.
 
